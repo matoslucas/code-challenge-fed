@@ -31,9 +31,17 @@ When you're done, push your changes to your repo and send us your answers to the
 ## Questions & Rationale
 
 - Why did you choose the packages you installed (or why did you not use any)?
-    - I have use Ant Design because is similar to Green Sock, and is a great framework for complex aplications
+    - I have use Ant Design because is similar to Green Sock, and is a great framework for complex applications
+    - I have use MDB React (Material Design Bootstrap) to use the Hamburger Toggler Button
 - How long did this work take you?
+    - 1 Hour for the Menu
+    - 3 Hours for the animation
+    - 1 Hour for the Form
 - What did you get stuck on or what was the most difficult part?
+    - Integrate Less with Next.JS, Integrate Ant Design with Next.JS
 - What was the easiest or fastest part?
+    - Hamburger Menu animation, Form
 - If you had more time, what would you like to have implemented?
+    - Improve the design, add a custom theme, fix the less issue 
 - What did you have to research or look up to complete this?
+    - Best animation libraries for React
