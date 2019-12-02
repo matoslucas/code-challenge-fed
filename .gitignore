@@ -1,0 +1,10 @@
+# General ignore rules for all directories
+.DS_Store
+node_modules
+*.log
+*.log-*
+
+# Next.js ignore rules
+.next
+# next.config.js
+out
