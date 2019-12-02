@@ -31,9 +31,7 @@ When you're done, push your changes to your repo and send us your answers to the
 ## Questions & Rationale
 
 - Why did you choose the packages you installed (or why did you not use any)?
-```
-I have use Ant Design becase is similar to Green Sock and is a great framework for complex aplications
-```
+    - I have use Ant Design because is similar to Green Sock, and is a great framework for complex aplications
 - How long did this work take you?
 - What did you get stuck on or what was the most difficult part?
 - What was the easiest or fastest part?
